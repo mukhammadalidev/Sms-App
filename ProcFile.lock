@@ -1,0 +1,1 @@
+web:gunicorn 'eskiz-sms-service-drf-main.wsgi'
